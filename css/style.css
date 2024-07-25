@@ -506,8 +506,3 @@ body {
     }
 }
 }
-@media screen and (max-width: 500px) {
-  .request__flex-left {
-    paddig-left: 15px
-  }
-}
